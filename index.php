@@ -33,12 +33,13 @@ function create_instant_pw()
 ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta name="viewport" content="width=200, initial-scale=1">
     <style>
         html {height: 100%;font-family: sans-serif;}
     </style>
+    <title>Password Generator</title>
 </head>
 <body>
 <h2>Password Generator</h2>
